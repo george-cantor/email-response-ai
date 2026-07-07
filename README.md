@@ -1,4 +1,4 @@
-#  AI Email Response Assistant
+#   AI Email Response Assistant (RAG)
 
 An end-to-end Retrieval-Augmented Generation (RAG) system that automatically generates professional email responses using semantic search and Large Language Models.
 
@@ -84,7 +84,7 @@ Performance Logging
 ##  Project Structure
 
 ```text
-hiver-ai-email-assistant/
+email-response-ai/
 │
 ├── data/
 │   └── raw/
@@ -144,9 +144,9 @@ The system uses a categorized email dataset containing customer support conversa
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/hiver-ai-email-assistant.git
+git clone https://github.com/george-cantor/email-response-ai.git
 
-cd hiver-ai-email-assistant
+cd email-response-ai
 ```
 
 Install dependencies:

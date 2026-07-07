@@ -1,0 +1,126 @@
+email,reply,category
+"Can we move tomorrow's meeting to Friday?","Sure, Friday works for me. I'll send an updated calendar invite.","scheduling"
+"I won't be available tomorrow. Can we reschedule?","No problem. Please share a time that works for you.","scheduling"
+"Could we postpone our discussion until next week?","Certainly. Let me know your availability for next week.","scheduling"
+"Something urgent came up. Can we push the meeting back?","Of course. Please suggest an alternative time.","scheduling"
+"Would it be possible to shift our call to Monday?","Monday works for me. I'll update the invite.","scheduling"
+"I forgot my password and can't log in.","Please use the password reset link. Let us know if the issue persists.","support"
+"My account appears to be locked.","We're sorry for the inconvenience. Our support team will assist you shortly.","support"
+"The password reset email never arrived.","Please check your spam folder. If you still don't see it, we'll resend it.","support"
+"I'm getting an error when trying to log in.","Could you share a screenshot of the error? We'll investigate immediately.","support"
+"My subscription isn't showing up in my account.","We'll review your account details and get back to you shortly.","support"
+"Do you offer enterprise pricing?","Yes, we offer enterprise plans. Our sales team can provide more details.","sales"
+"I'd like to schedule a product demo.","Thank you for your interest. Please share your availability for a demo.","sales"
+"Can you send me pricing information?","Certainly. I'll send our latest pricing details.","sales"
+"Do you provide discounts for large teams?","Yes, volume discounts are available for larger teams.","sales"
+"We are evaluating solutions for our company.","We'd be happy to discuss your requirements and arrange a consultation.","sales"
+"Does your product integrate with Slack?","Yes, Slack integration is fully supported.","product"
+"Do you support single sign-on (SSO)?","Yes, SSO is available on our business and enterprise plans.","product"
+"Can your platform connect with Google Workspace?","Yes, Google Workspace integration is supported.","product"
+"Do you have an API for custom integrations?","Yes, we provide a REST API for developers.","product"
+"Is dark mode available?","Yes, dark mode is available in the latest version.","product"
+"Just checking if there are any updates.","Thank you for following up. We'll provide an update soon.","follow-up"
+"Following up on my previous email.","We appreciate your patience and will respond shortly.","follow-up"
+"Have you had a chance to review my request?","We're currently reviewing it and will get back to you soon.","follow-up"
+"I wanted to check the status of my ticket.","Your request is being processed. We'll update you shortly.","follow-up"
+"Any progress on the issue I reported?","Our team is investigating the issue and will share an update soon.","follow-up"
+I forgot my password and cannot log in.,Please use the password reset link on the login page. Let us know if the issue continues.,password_reset
+I am unable to reset my password.,Thank you for contacting us. Please use the password recovery option and follow the instructions sent to your email.,password_reset
+My password reset link has expired.,We apologize for the inconvenience. Please request a new password reset link and try again.,password_reset
+I cannot access my account because I forgot my password.,Please use the Forgot Password option to create a new password and regain access to your account.,password_reset
+The password recovery email never arrived.,Please check your spam folder. If you still cannot locate the email contact support for assistance.,password_reset
+How do I change my password?,You can update your password from your account settings page after signing in.,password_reset
+The reset link is not working.,Please request a new reset link and ensure you use it before it expires.,password_reset
+I accidentally forgot my login credentials.,Please use the password recovery process to restore access to your account.,password_reset
+Can you help me recover my account password?,Certainly. Please use the password reset feature and follow the instructions provided.,password_reset
+I need a new password because I cannot log in.,Please initiate a password reset request from the login page to create a new password.,password_reset
+I am unable to log into my account.,Please verify your login credentials and try again. If the issue persists contact support.,login_issue
+The website keeps rejecting my login attempt.,Please ensure that your username and password are correct. Let us know if you continue experiencing difficulties.,login_issue
+My account says invalid credentials.,Please verify your credentials and try resetting your password if necessary.,login_issue
+I cannot access my dashboard.,We are sorry for the inconvenience. Please try signing out and back in or contact support.,login_issue
+The login page is not working.,Please clear your browser cache and try again. If the issue continues let us know.,login_issue
+My account appears locked.,For security reasons your account may have been temporarily locked. Please contact support for assistance.,login_issue
+I keep getting authentication errors.,Please verify your credentials and try again. Contact support if the issue persists.,login_issue
+The system logs me out immediately.,Please clear your browser cookies and try again. Let us know if the problem continues.,login_issue
+Why can’t I sign into my account?,Please verify your account information and try again. We are happy to assist further if needed.,login_issue
+My login attempt keeps failing.,Please double-check your credentials and consider resetting your password.,login_issue
+I was charged twice this month.,We apologize for the inconvenience. Our billing team will review the duplicate charge and update you shortly.,billing_issue
+I have a question about my invoice.,Thank you for reaching out. Please share your invoice details and we will assist you further.,billing_issue
+There is an unexpected charge on my account.,We will investigate the charge and provide an update as soon as possible.,billing_issue
+My payment was processed incorrectly.,We apologize for the inconvenience. Our billing team will review the transaction.,billing_issue
+Can I receive a copy of my invoice?,Certainly. Please provide your account information and we will send the invoice copy.,billing_issue
+The amount charged is different from expected.,We will review the billing discrepancy and provide clarification shortly.,billing_issue
+Why was my card charged twice?,Our billing team will investigate this issue and provide an update as soon as possible.,billing_issue
+I need help understanding my bill.,We are happy to assist. Please provide the invoice details so we can review them.,billing_issue
+My payment failed but money was deducted.,We will investigate the transaction and provide an update as soon as possible.,billing_issue
+I believe I was billed incorrectly.,Thank you for bringing this to our attention. Our billing team will review the matter.,billing_issue
+Do you offer startup pricing?,Thank you for your interest. We offer multiple plans that may suit startups. Please let us know your requirements.,subscription_plan
+What subscription plans are available?,You can view our available plans on our pricing page. Let us know if you need assistance selecting one.,subscription_plan
+Can I upgrade my plan?,Yes you may upgrade your subscription at any time from your account settings.,subscription_plan
+What features are included in the premium plan?,The premium plan includes additional features and support options. Please refer to our pricing page for details.,subscription_plan
+Can I switch plans later?,Yes you may modify your subscription plan whenever needed.,subscription_plan
+Do you provide annual billing discounts?,We offer annual billing options that may include discounts. Please check our pricing page for details.,subscription_plan
+I need information about enterprise plans.,Thank you for your interest. Our team can provide information regarding enterprise offerings.,subscription_plan
+Can I downgrade my subscription?,Yes you may downgrade your plan through your account settings.,subscription_plan
+What is the difference between your plans?,Each plan offers different features and usage limits. Please review our pricing page for details.,subscription_plan
+Which plan would you recommend for a small business?,We would be happy to help. Please share your requirements and we can recommend a suitable plan.,subscription_plan
+I would like a refund.,We are sorry to hear that. Please provide your order details and we will review your refund request.,refund_request
+Can I get my money back?,Please share your purchase information and we will evaluate your refund eligibility.,refund_request
+I accidentally purchased the wrong plan.,We understand. Please provide your order details and we will assist with the refund process.,refund_request
+I canceled my subscription and want a refund.,Please provide your account details and our team will review your request.,refund_request
+I was charged after canceling.,We apologize for the inconvenience. We will investigate the charge and update you shortly.,refund_request
+How long do refunds take?,Refund processing times vary but we will keep you informed throughout the process.,refund_request
+I need to request a refund for my purchase.,Please provide your order information and we will review the request promptly.,refund_request
+Can you refund my recent payment?,Please share your payment details and we will investigate the matter.,refund_request
+I want to cancel and receive a refund.,Please provide your account information and we will review your request.,refund_request
+My order was canceled but I have not received a refund.,We are reviewing your case and will provide an update as soon as possible.,refund_request
+When will my order arrive?,Your order is currently being processed. Tracking information will be shared once it ships.,order_tracking
+Can you provide my shipment status?,We are checking the latest shipment information and will update you shortly.,order_tracking
+I want to track my order.,Please use the tracking number provided in your confirmation email.,order_tracking
+Has my order been shipped yet?,We are reviewing your order status and will provide an update shortly.,order_tracking
+Where is my package?,Please provide your order number and we will check the shipment status.,order_tracking
+Can you tell me the delivery date?,We are reviewing your shipment details and will provide the estimated delivery date.,order_tracking
+My order seems delayed.,We apologize for the delay and are checking the shipment status for you.,order_tracking
+I have not received tracking information.,Tracking details will be provided once the order has been dispatched.,order_tracking
+When should I expect my package?,We are reviewing the order details and will provide an estimated delivery timeline.,order_tracking
+I need an update on my shipment.,We are checking the latest shipment status and will update you shortly.,order_tracking
+My package is delayed.,We apologize for the inconvenience. We are reviewing the shipment status and will update you soon.,shipping_delay
+Why is my order taking so long?,We understand your concern and are checking the latest delivery information.,shipping_delay
+The delivery date has passed.,We apologize for the delay. Our team is investigating the shipment status.,shipping_delay
+My shipment has not moved for several days.,We are reviewing the shipment details and will provide an update shortly.,shipping_delay
+Can you explain the shipping delay?,We are checking with the carrier and will share any available updates.,shipping_delay
+The package is stuck in transit.,We are investigating the shipment status and will update you as soon as possible.,shipping_delay
+I need help with a delayed shipment.,We understand the inconvenience and are reviewing the shipment details.,shipping_delay
+The courier has not delivered my order.,We are checking the latest delivery information and will update you shortly.,shipping_delay
+Why is my package still not here?,We apologize for the delay and are investigating the matter.,shipping_delay
+My order is significantly delayed.,We are reviewing the shipment status and will provide an update soon.,shipping_delay
+I would like a product demonstration.,Thank you for your interest. We would be happy to schedule a product demo.,demo_request
+Can I book a demo?,Certainly. Please share your availability and we will arrange a demonstration.,demo_request
+I want to learn more about your platform.,We would be glad to provide a demonstration of our platform. Please share your preferred time.,demo_request
+Can someone show me how the product works?,We would be happy to arrange a demo session for you.,demo_request
+I'd like to schedule a demo next week.,Thank you for your interest. Please share your preferred date and time.,demo_request
+Can your team provide a walkthrough?,Certainly. We would be happy to arrange a walkthrough of the platform.,demo_request
+I am interested in a live demo.,Please share your availability and we will coordinate a live demonstration.,demo_request
+Can I see the product before purchasing?,We would be happy to schedule a demo so you can explore the product features.,demo_request
+I'd like a presentation of your software.,Thank you for your interest. We can arrange a product presentation for you.,demo_request
+Please schedule a demonstration for our team.,Please share your availability and we will coordinate the session.,demo_request
+Can we schedule a meeting?,Certainly. Please share your preferred date and time.,meeting_schedule
+I would like to book a meeting.,We would be happy to arrange a meeting. Please provide your availability.,meeting_schedule
+Are you available next week for a discussion?,Please let us know your preferred time slots and we will coordinate accordingly.,meeting_schedule
+Can we arrange a call tomorrow?,We would be happy to schedule a call. Please confirm your availability.,meeting_schedule
+I need to reschedule our meeting.,Thank you for letting us know. Please share your preferred alternative time.,meeting_schedule
+Can we move our meeting to Friday?,We will do our best to accommodate the requested schedule change.,meeting_schedule
+I want to set up a discussion with your team.,Please share your availability and we will coordinate the meeting.,meeting_schedule
+Can we arrange a quick call?,Certainly. Please let us know a convenient time.,meeting_schedule
+I'd like to meet with your sales team.,Thank you for your interest. Please share your preferred schedule.,meeting_schedule
+Please help me schedule an appointment.,We would be happy to assist. Please provide your availability.,meeting_schedule
+Do you plan to add dark mode?,Thank you for the suggestion. We will share your feedback with our product team.,feature_request
+Can you add two-factor authentication?,We appreciate the suggestion and will forward it to the product team for consideration.,feature_request
+I would like an export to Excel feature.,Thank you for your feedback. We will share this request with the relevant team.,feature_request
+Can you add custom dashboards?,We appreciate the suggestion and will pass it along to our product team.,feature_request
+Please support additional integrations.,Thank you for your feedback. We will consider this enhancement in future updates.,feature_request
+I would like better reporting tools.,We appreciate your suggestion and will share it with the product team.,feature_request
+Can you add a mobile application?,Thank you for your feedback. We will pass your request to the relevant team.,feature_request
+I need support for more file formats.,We appreciate your suggestion and will consider it for future releases.,feature_request
+Please add advanced search filters.,Thank you for your feedback. We will share this enhancement request internally.,feature_request
+Can you introduce workflow automation?,We appreciate your idea and will forward it to the product team for review.,feature_request
